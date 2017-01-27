@@ -17,4 +17,10 @@ use c to continue the game
 use r to start another round 
 
 Enhancements:
-game is designed with extra obstacles on the boundaries. However you can transported by entering the boudaries that does not have obstacles.
+game can be played in two players mode which allows human player to fight against AI(which is really hard).
+
+![Alt text](https://s27.postimg.org/b922o508j/Screen_Shot_2017_01_27_at_17_34_08.png)
+
+![Alt text](https://s27.postimg.org/ye7a7pt0j/Screen_Shot_2017_01_27_at_17_34_18.png)
+
+![Alt text](https://s29.postimg.org/mooqakopz/Screen_Shot_2017_01_27_at_17_36_56.png)
